@@ -16,4 +16,5 @@ code function to get the mean waiting times using the M/D/n queing method or the
 -MHn.py<br>
 just the plotting for the M/H/n queing method the fuction from MDn.py was used since it pretty much handles all the heavy lifting
 - q3 sjf with mm1 comparaison plot.py : Here we plot the sjf model and compare it to the MM1, both ploted in fct of rho
-- 
+- question three SJF with confidence intervals.py : to get confidence interval for the sjf model
+  
