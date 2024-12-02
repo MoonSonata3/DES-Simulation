@@ -12,5 +12,6 @@ matplotlib<br>
 ### contents:
 -MDn.py<br>
 code function to get the mean waiting times using the M/D/n queing method or the deterministic service time queing
+
 -MHn.py<br>
 just the plotting for the M/H/n queing method the fuction from MDn.py was used since it pretty much handles all the heavy lifting
