@@ -24,4 +24,10 @@ to get confidence interval for the sjf model
 
 -Question two : FIFO for different number of servers.py<br>
   We plot M/M/n for n=1,2,4 with xaxis=rho which varies between 0.1 to 1
+
+-statiscs.py<br>
+calculation of the mean,std, and confidence interval over different simulations
+
+-calculate_theoretical.tex<br>
+latex file for question 1 
   
