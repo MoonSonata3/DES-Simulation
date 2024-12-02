@@ -75,7 +75,7 @@ def simulationcomplex(n, itermax):
 # Now, we have to check out if what we proved in question one was right, so we have to study this problem for different number of servers, here, we have : nbserver=[1,2,4] as asked by the problem
 results = {}
 for n in nbserver:
-    avg_wait_time = simulation(n)  # Calcul du temps d'attente moyen pour cette configuration
+    avg_wait_time = simulation(n)  
     results[n] = avg_wait_time
     print("Average waiting time for",n,"servers:",avg_wait_time)
     
